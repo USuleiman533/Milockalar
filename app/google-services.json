@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153186876561",
+    "firebase_url": "https://milockalar.firebaseio.com",
+    "project_id": "milockalar",
+    "storage_bucket": "milockalar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153186876561:android:e768bb37efb3fd0a",
+        "android_client_info": {
+          "package_name": "com.gmail.suleiman533.milockalar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153186876561-0bdval1fva0amlooaoq19afot68qrp10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.suleiman533.milockalar",
+            "certificate_hash": "c466cdba7ef97af84d38b09510f52d49c1777a38"
+          }
+        },
+        {
+          "client_id": "153186876561-u48essu3thi595npbv3qckkp3iunjb70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT3XuExZvg8h3FMbit5hFVGo-7Q2WARIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153186876561-u48essu3thi595npbv3qckkp3iunjb70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
